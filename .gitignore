@@ -1,0 +1,11 @@
+# travel-planner/.gitignore
+# Node.js
+/backend/node_modules
+.env
+
+# Vue.js
+/frontend/node_modules
+/frontend/dist
+
+# OS
+.DS_Store
